@@ -12,7 +12,7 @@
 ## :octocat: GitHub Stats
 
 <a href="https://github.com/PabonSEC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabonsec&show_icons=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabonsec&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
 </a>
 
 <a href="https://github.com/PabonSEC">
