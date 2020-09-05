@@ -1,0 +1,10 @@
+## :fork_and_knife: Technologies & Tools
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
