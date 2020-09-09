@@ -1,11 +1,11 @@
 ## :fork_and_knife: Technologies & Tools
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=ReactJS&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+[![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][javascript]
+[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=ReactJS&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][reactjs]
+[![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][reactnative]
+[![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][ionic]
 [![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][gatsbyjs]
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][bash]
+[![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][docker]
 [![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][visualstudio]
 [![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][atom]
 
@@ -25,9 +25,16 @@
 
 ## :confetti_ball: Profile Visitors
 
-![](https://visitor-badge.laobi.icu/badge?page_id=pabonsec)
+[![](https://visitor-badge.laobi.icu/badge?page_id=pabonsec)][pabon]
 
 <!-- Definitions -->
+[pabon]: https://github.com/PabonSEC
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[reactjs]: https://reactjs.org/
+[reactnative]: https://reactnative.dev/
+[ionic]: https://ionicframework.com/
 [gatsbyjs]: https://www.gatsbyjs.org/
+[bash]: https://devhints.io/bash
+[docker]: https://www.docker.com/
 [visualstudio]: https://code.visualstudio.com/
 [atom]: https://atom.io/
