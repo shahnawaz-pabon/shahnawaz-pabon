@@ -1,6 +1,6 @@
 ## :fork_and_knife: Technologies & Tools
 [![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][javascript]
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=ReactJS&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][reactjs]
+[![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][reactjs]
 [![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][reactnative]
 [![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][ionic]
 [![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][gatsbyjs]
