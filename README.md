@@ -11,24 +11,24 @@
 
 ## :octocat: GitHub Stats
 
-<a href="https://github.com/PabonSEC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabonsec&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
+<a href="https://github.com/shahnawaz-pabon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
 </a>
 
-<a href="https://github.com/PabonSEC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabonsec&hide=java,objective-c&title_color=76D7C4&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
+<a href="https://github.com/shahnawaz-pabon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawaz-pabon&hide=java,objective-c&title_color=76D7C4&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
 </a>
 
-<a href="https://github.com/PabonSEC/pabonsec.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pabonsec&repo=pabonsec.github.io&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
+<a href="https://github.com/shahnawaz-pabon/shahnawaz-pabon.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahnawaz-pabon&repo=shahnawaz-pabon.github.io&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
 </a>
 
-## :confetti_ball: Profile Visitors
+## :confetti_ball: Total Visits
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=pabonsec)][pabon]
+[![](https://visitor-badge.laobi.icu/badge?page_id=shahnawaz-pabon)][pabon]
 
 <!-- Definitions -->
-[pabon]: https://github.com/PabonSEC
+[pabon]: https://github.com/shahnawaz-pabon
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [reactjs]: https://reactjs.org/
 [reactnative]: https://reactnative.dev/
