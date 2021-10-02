@@ -1,50 +1,49 @@
 ## :fork_and_knife: Technologies & Tools
-[![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&labelColor=17202A&color=1abc9c)][javascript]
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=17202A&color=1abc9c)][python]
-[![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&labelColor=17202A&color=1abc9c)][reactjs]
-[![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&labelColor=17202A&color=1abc9c)][reactnative]
-[![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&labelColor=17202A&color=1abc9c)][ionic]
-[![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)][gatsbyjs]
-[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&labelColor=17202A&color=1abc9c)][bash]
-[![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&labelColor=17202A&color=1abc9c)][docker]
-[![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)][visualstudio]
-[![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&labelColor=17202A&color=1abc9c)][atom]
 
+[![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)][javascript]&nbsp;
+[![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)][python]&nbsp;
+[![](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)][reactjs]&nbsp;
+[![](https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)][reactnative]&nbsp;
+[![](https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c)][ionic]&nbsp;
+[![](https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)][gatsbyjs]&nbsp;
+[![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)][bash]&nbsp;
+[![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)][docker]&nbsp;
+[![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)][visualstudio]&nbsp;
+[![](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)][atom]
 
 ## :ghost: My Profiles
 
 <p align="center">
-
-  <a href="https://uhunt.onlinejudge.org/id/370372" target="blank">
-    <img align="center" src="https://medfor.eu/sites/default/files/logo_pics/universities/valladolid200.png" alt="pabon" height="30" width="30" style="border-radius: 15%"/>
+  <a href="https://uhunt.onlinejudge.org/id/370372" target="_blank">
+    <img src="https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none" alt="uva profile" />
   </a>
-
-  <a href="https://codeforces.com/profile/Back_To_School" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="pabon" height="40" width="30" style="border-radius: 50%"/>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Back_To_School" target="_blank">
+    <img src="https://img.shields.io/badge/online_judge-codeforces-006FBF?style=for-the-badge&logo=codeforces" alt="codeforces profile" />
   </a>
-
-  <a href="https://lightoj.com/user/shahnawaz-pabon" target="blank">
-    <img align="center" src="https://static.lightoj.com/category-icons/lightoj-logo.png" alt="pabon" height="30" width="30" style="border-radius: 15%"/>
+  &nbsp;
+  <a href="https://lightoj.com/user/shahnawaz-pabon" target="_blank">
+    <img src="https://img.shields.io/badge/online_judge-lightoj-3298DC?style=for-the-badge&logo=none" alt="lightoj profile" />
   </a>
-
-  <a href="https://www.hackerrank.com/shahnawaz_pabon" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="pabon" height="40" width="40" />
+  &nbsp;
+  <a href="https://www.hackerrank.com/shahnawaz_pabon" target="_blank">
+    <img src="https://img.shields.io/badge/online_judge-hackerrank-1BA94C?style=for-the-badge&logo=hackerrank" alt="hackerrank profile" />
   </a>
-
-  <a href="https://stackoverflow.com/users/6174271/shahnawaz-hossan" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="pabon" height="40" width="40" />
+  &nbsp;
+  <a href="https://stackoverflow.com/users/6174271/shahnawaz-hossan" target="_blank">
+    <img src="https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow" alt="stackoverflow profile" />
   </a>
-
-  <a href="https://www.linkedin.com/in/backtoschool/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="pabon" height="40" width="40" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/backtoschool/" target="_blank">
+    <img src="https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin" alt="linkedin profile" />
   </a>
-
-  <a href="http://pabonsec.blogspot.com/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="pabon" height="40" width="40" />
+  &nbsp;
+  <a href="http://pabonsec.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger" alt="blogger profile" />
   </a>
-
-  <a href="https://discuss.erpnext.com/u/pabon_cse_12/summary" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erpnext_logo.svg/1200px-Erpnext_logo.svg.png" alt="pabon" height="30" width="30" />
+  &nbsp;
+  <a href="https://discuss.erpnext.com/u/pabon_cse_12/summary" target="_blank">
+    <img src="https://img.shields.io/badge/profile-erpnext-7079F7?style=for-the-badge&logo=none" alt="erpnext profile" />
   </a>
 </p>
 
@@ -73,6 +72,7 @@
 </p>
 
 <!-- Definitions -->
+
 [pabon]: https://github.com/shahnawaz-pabon
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [python]: https://www.python.org/
