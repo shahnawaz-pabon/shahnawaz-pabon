@@ -1,5 +1,7 @@
 ## :fork_and_knife: Technologies & Tools
 
+<p align="center">
+
 [![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)][javascript]&nbsp;
 [![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)][python]&nbsp;
 [![](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)][reactjs]&nbsp;
@@ -10,6 +12,8 @@
 [![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)][docker]&nbsp;
 [![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)][visualstudio]&nbsp;
 [![](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)][atom]
+
+</p>
 
 ## :ghost: My Profiles
 
