@@ -1,18 +1,45 @@
 ## :fork_and_knife: Technologies & Tools
 
 <p align="center">
-
-[![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)][javascript]&nbsp;
-[![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)][python]&nbsp;
-[![](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)][reactjs]&nbsp;
-[![](https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)][reactnative]&nbsp;
-[![](https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c)][ionic]&nbsp;
-[![](https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)][gatsbyjs]&nbsp;
-[![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)][bash]&nbsp;
-[![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)][docker]&nbsp;
-[![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)][visualstudio]&nbsp;
-[![](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)][atom]
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c" alt="javascript" />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c" alt="python" />
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c" alt="reactjs" />
+  </a>
+  &nbsp;
+  <a href=" https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c" alt="react native" />
+  </a>
+  &nbsp;
+  <a href="https://ionicframework.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c" alt="ionic" />
+  </a>
+  &nbsp;
+  <a href="https://www.gatsbyjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c" alt="gatsbyjs" />
+  </a>
+  &nbsp;
+  <a href="https://devhints.io/bash" target="_blank">
+    <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c" alt="bash" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c" alt="docker" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c" alt="visualstudio" />
+  </a>
+  &nbsp;
+  <a href="https://atom.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c" alt="atom" />
+  </a>
 </p>
 
 ## :ghost: My Profiles
