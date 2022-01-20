@@ -26,15 +26,23 @@
   </a>
   &nbsp;
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=8993be&labelColor=17202A&color=1abc9c" alt="php" />
+    <img src="https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c" alt="php" />
   </a>
   &nbsp;
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=fb503b&labelColor=17202A&color=1abc9c" alt="laravel" />
+    <img src="https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c" alt="laravel" />
   </a>
   &nbsp;
   <a href="https://devhints.io/bash" target="_blank">
     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c" alt="bash" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c" alt="mysql" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c" alt="mongodb" />
   </a>
   &nbsp;
   <a href="https://www.docker.com/" target="_blank">
@@ -46,7 +54,7 @@
   </a>
   &nbsp;
   <a href="https://www.vim.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=007f00&labelColor=17202A&color=1abc9c" alt="vim" />
+    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&labelColor=17202A&color=1abc9c" alt="vim" />
   </a>
   &nbsp;
   <a href="https://atom.io/" target="_blank">
