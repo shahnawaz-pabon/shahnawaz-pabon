@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c" alt="python" />
   </a>
   &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-FastAPI-informational?style=for-the-badge&logo=fastapi&labelColor=17202A&color=1abc9c" alt="fastapi" />
+  </a>
+  &nbsp;
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c" alt="reactjs" />
   </a>
@@ -23,6 +27,14 @@
   &nbsp;
   <a href="https://www.gatsbyjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c" alt="gatsbyjs" />
+  </a>
+  &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c" alt="c" />
+  </a>
+  &nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c" alt="c++" />
   </a>
   &nbsp;
   <a href="https://www.php.net/" target="_blank">
@@ -43,6 +55,10 @@
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c" alt="mongodb" />
+  </a>
+  &nbsp;
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c" alt="dynamodb" />
   </a>
   &nbsp;
   <a href="https://www.docker.com/" target="_blank">
