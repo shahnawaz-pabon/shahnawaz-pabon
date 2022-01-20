@@ -25,6 +25,14 @@
     <img src="https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c" alt="gatsbyjs" />
   </a>
   &nbsp;
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=8993be&labelColor=17202A&color=1abc9c" alt="php" />
+  </a>
+  &nbsp;
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=fb503b&labelColor=17202A&color=1abc9c" alt="laravel" />
+  </a>
+  &nbsp;
   <a href="https://devhints.io/bash" target="_blank">
     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c" alt="bash" />
   </a>
@@ -37,8 +45,16 @@
     <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c" alt="visualstudio" />
   </a>
   &nbsp;
+  <a href="https://www.vim.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=007f00&labelColor=17202A&color=1abc9c" alt="vim" />
+  </a>
+  &nbsp;
   <a href="https://atom.io/" target="_blank">
     <img src="https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c" alt="atom" />
+  </a>
+  &nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+    <img src="https://img.shields.io/badge/IDE-PhpStorm-informational?style=for-the-badge&logo=phpstorm&labelColor=17202A&color=1abc9c" alt="phpstorm" />
   </a>
 </p>
 
@@ -115,3 +131,4 @@
 [docker]: https://www.docker.com/
 [visualstudio]: https://code.visualstudio.com/
 [atom]: https://atom.io/
+[phpstorm]: https://www.jetbrains.com/phpstorm/
