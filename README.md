@@ -109,7 +109,7 @@
     <img src="https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin" alt="linkedin profile" />
   </a>
   &nbsp;
-  <a href="http://pabonsec.blogspot.com/" target="_blank">
+  <a href="https://shahnawaz-pabon.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger" alt="blogger profile" />
   </a>
   &nbsp;
