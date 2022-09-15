@@ -71,15 +71,9 @@
 <a href="https://www.vim.org/" target="_blank">
   <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&labelColor=17202A&color=1abc9c" alt="vim" />
 </a>
-&nbsp;
-<a href="https://atom.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c" alt="atom" />
-</a>
-&nbsp;
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
-  <img src="https://img.shields.io/badge/IDE-PhpStorm-informational?style=for-the-badge&logo=phpstorm&labelColor=17202A&color=1abc9c" alt="phpstorm" />
-</a>
 
+[![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)](https://atom.io/)
+[![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=for-the-badge&logo=phpstorm&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/phpstorm/)
 [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
 
 ## :ghost: My Profiles
