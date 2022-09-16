@@ -47,31 +47,13 @@
 <a href="https://devhints.io/bash" target="_blank">
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c" alt="bash" />
 </a>
-&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c" alt="mysql" />
-</a>
-&nbsp;
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c" alt="mongodb" />
-</a>
-&nbsp;
-<a href="https://aws.amazon.com/dynamodb/" target="_blank">
-  <img src="https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c" alt="dynamodb" />
-</a>
-&nbsp;
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c" alt="docker" />
-</a>
-&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c" alt="visualstudio" />
-</a>
-&nbsp;
-<a href="https://www.vim.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&labelColor=17202A&color=1abc9c" alt="vim" />
-</a>
 
+[![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c)](https://www.mongodb.com/)
+[![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c)](https://aws.amazon.com/dynamodb/)
+[![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)](https://www.docker.com/)
+[![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&labelColor=17202A&color=1abc9c)](https://www.vim.org/)
 [![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)](https://atom.io/)
 [![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=for-the-badge&logo=phpstorm&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/phpstorm/)
 [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
