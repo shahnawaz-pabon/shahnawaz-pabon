@@ -1,53 +1,17 @@
 ## :fork_and_knife: Technologies & Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c" alt="javascript" />
-</a>
-&nbsp;
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c" alt="python" />
-</a>
-&nbsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-FastAPI-informational?style=for-the-badge&logo=fastapi&labelColor=17202A&color=1abc9c" alt="fastapi" />
-</a>
-&nbsp;
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c" alt="reactjs" />
-</a>
-&nbsp;
-<a href=" https://reactnative.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c" alt="react native" />
-</a>
-&nbsp;
-<a href="https://ionicframework.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c" alt="ionic" />
-</a>
-&nbsp;
-<a href="https://www.gatsbyjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c" alt="gatsbyjs" />
-</a>
-&nbsp;
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c" alt="c" />
-</a>
-&nbsp;
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c" alt="c++" />
-</a>
-&nbsp;
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c" alt="php" />
-</a>
-&nbsp;
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c" alt="laravel" />
-</a>
-&nbsp;
-<a href="https://devhints.io/bash" target="_blank">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c" alt="bash" />
-</a>
-
+[![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/Code-FastAPI-informational?style=for-the-badge&logo=fastapi&labelColor=17202A&color=1abc9c)](https://fastapi.tiangolo.com/)
+[![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactjs.org/)
+[![ReactNative](https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactnative.dev/)
+[![Ionic](https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c)](https://ionicframework.com/)
+[![GatsbyJS](https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)](https://www.gatsbyjs.org/)
+[![C](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c)](https://isocpp.org/)
+[![PHP](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c)](https://laravel.com/)
+[![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)](https://devhints.io/bash)
 [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c)](https://www.mongodb.com/)
 [![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c)](https://aws.amazon.com/dynamodb/)
