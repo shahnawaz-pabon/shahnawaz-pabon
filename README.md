@@ -24,37 +24,14 @@
 
 ## :ghost: My Profiles
 
-<a href="https://uhunt.onlinejudge.org/id/370372" target="_blank">
-  <img src="https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none" alt="uva profile" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/Back_To_School" target="_blank">
-  <img src="https://img.shields.io/badge/online_judge-codeforces-006FBF?style=for-the-badge&logo=codeforces" alt="codeforces profile" />
-</a>
-&nbsp;
-<a href="https://lightoj.com/user/shahnawaz-pabon" target="_blank">
-  <img src="https://img.shields.io/badge/online_judge-lightoj-3298DC?style=for-the-badge&logo=none" alt="lightoj profile" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/shahnawaz_pabon" target="_blank">
-  <img src="https://img.shields.io/badge/online_judge-hackerrank-1BA94C?style=for-the-badge&logo=hackerrank" alt="hackerrank profile" />
-</a>
-&nbsp;
-<a href="https://stackoverflow.com/users/6174271/shahnawaz-hossan" target="_blank">
-  <img src="https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow" alt="stackoverflow profile" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/backtoschool/" target="_blank">
-  <img src="https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin" alt="linkedin profile" />
-</a>
-&nbsp;
-<a href="https://shahnawaz-pabon.blogspot.com/" target="_blank">
-  <img src="https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger" alt="blogger profile" />
-</a>
-&nbsp;
-<a href="https://discuss.erpnext.com/u/pabon_cse_12/summary" target="_blank">
-  <img src="https://img.shields.io/badge/profile-erpnext-7079F7?style=for-the-badge&logo=none" alt="erpnext profile" />
-</a>
+[![UVa](https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none)](https://uhunt.onlinejudge.org/id/370372)
+[![Codeforces](https://img.shields.io/badge/online_judge-codeforces-006FBF?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Back_To_School)
+[![LightOJ](https://img.shields.io/badge/online_judge-lightoj-3298DC?style=for-the-badge&logo=none)](https://lightoj.com/user/shahnawaz-pabon)
+[![HackerRank](https://img.shields.io/badge/online_judge-hackerrank-1BA94C?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/shahnawaz_pabon)
+[![StackOverflow](https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/6174271/shahnawaz-hossan)
+[![LinkedIn](https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/backtoschool/)
+[![Blogger](https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger)](https://shahnawaz-pabon.blogspot.com/)
+[![ERPNext](https://img.shields.io/badge/profile-erpnext-7079F7?style=for-the-badge&logo=none)](https://discuss.erpnext.com/u/pabon_cse_12/summary)
 
 ## :computer: OS
 
