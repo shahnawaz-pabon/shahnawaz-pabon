@@ -43,8 +43,8 @@
 
 <div style="display: flex; flex-direction: row;">
 
-  <img width="48%" height="170" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
-
+  <img width="48%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3498DB&bg_color=2c3e50" />
+  <span>&nbsp;</span>
   <img width="48%" height="170" src="https://streak-stats.demolab.com?user=shahnawaz-pabon&height=170&border_radius=5&date_format=j%20M%5B%20Y%5D" />
 
 </div>
