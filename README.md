@@ -41,6 +41,14 @@
 
 ## :octocat: GitHub Stats
 
+![Shahnawaz Hossan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahnawaz-pabon&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!--
+
+Previous Github Stats
+
 <a href="https://github.com/shahnawaz-pabon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Pabon's GitHub Stats" />
 </a>
@@ -52,17 +60,16 @@
 <a href="https://github.com/shahnawaz-pabon/shahnawaz-pabon.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahnawaz-pabon&repo=shahnawaz-pabon.github.io&title_color=76D7C4&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" />
 </a>
+-->
 
-<br>
-<br>
-<br>
+## :octocat: Support me
+
+<a href="https://www.buymeacoffee.com/shahnawazhossan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <br>
 <br>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/shahnawazhossan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-<br>
   <img src="https://komarev.com/ghpvc/?username=shahnawaz-pabon&color=1abc9c&label=PROFILE+VIEWS&style=flat" alt="pabon" />
 </p>
 
