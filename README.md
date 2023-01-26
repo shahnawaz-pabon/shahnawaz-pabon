@@ -43,7 +43,7 @@
 
 <div style="display: flex; flex-direction: row;">
 
-![Shahnawaz Hossan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50)
+![Shahnawaz Hossan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahnawaz-pabon&show_icons=true&include_all_commits=true&line_height=25&card_width=450&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahnawaz-pabon&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
