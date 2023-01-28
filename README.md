@@ -1,4 +1,15 @@
 <div align="center"> <img src="./images/header-image.png"> </div>
+<br>
+<br>
+<!-- <img align="right" width="400" height="250" alt="boy with computer" src="./images/coffee.png" /> -->
+
+## :man_office_worker: About me
+
+- :snowman: Spent more than 1500 hours on solving different kind of programming problems during my university study.
+- :snowman: Solved 1000+ problems in different online judges.
+- :snowman: Capable of working on multiple stacks simultaneously.
+- :snowman: Whenever I switched jobs, I was asked to work on technologies that I had never worked on before. Despite not having any experiences, I always took on those challenges successfully to take over my responsibilities.
+  <br>
 
 ## :fork_and_knife: Technologies & Tools
 
