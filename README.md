@@ -1,3 +1,5 @@
+<div align="center"> <img src="./images/header-image.png"> </div>
+
 ## :fork_and_knife: Technologies & Tools
 
 [![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
