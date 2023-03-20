@@ -5,7 +5,7 @@
 
 ## :man_office_worker: About me
 
-- :snowman: During my university studies, I spent over 1500 hours working on various types of programming problems.
+- :snowman: During my university studies, I spent over 3000 hours working on various types of programming problems.
 - :snowman: Solved 1000+ problems in different online judges.
 - :snowman: Capable of working on multiple stacks simultaneously.
 - :snowman: Whenever I switched jobs, I was asked to work on technologies that I had never worked on before. Despite not having any experiences, I always took on those challenges successfully to take over my responsibilities.
