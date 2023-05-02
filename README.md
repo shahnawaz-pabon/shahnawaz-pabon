@@ -9,7 +9,7 @@
 - :snowman: Solved 1000+ problems in different online judges.
 - :snowman: Capable of working on multiple stacks simultaneously.
 - :snowman: Have a facility for learning and applying new technologies with ease whenever the need arises.
-- :snowman: Whenever I switched jobs, I was asked to work on technologies that I had never worked on before. Despite not having any experiences, I always took on those challenges successfully to take over my responsibilities.
+- :snowman: Throughout my career transitions, I have consistently been tasked with working on unfamiliar technologies. Despite my lack of prior experience, I have consistently risen to the challenge and excelled in assuming my new responsibilities.
   <br>
 
 ## :fork_and_knife: Technologies & Tools
