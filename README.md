@@ -73,7 +73,7 @@ Previous Github Stats
 
 I already want to express my gratitude for using my projects. Buy me a coffee if you'd like to take it a step further and support my open source work:
 
-<a href="https://www.buymeacoffee.com/shahnawazhossan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![BuyMeACoffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/shahnawazhossan)
 
 <br>
 <br>
