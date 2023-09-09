@@ -11,29 +11,20 @@
 - :snowman: Whenever I switched jobs, I was asked to work on technologies that I had never worked on before. Despite not having any experiences, I always took on those challenges successfully to take over my responsibilities.
   <br>
 
-## :fork_and_knife: Technologies & Tools
+## :fork_and_knife: Skills
 
-[![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/Code-FastAPI-informational?style=for-the-badge&logo=fastapi&labelColor=17202A&color=1abc9c)](https://fastapi.tiangolo.com/)
-[![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactjs.org/)
-[![ReactNative](https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactnative.dev/)
-[![Ionic](https://img.shields.io/badge/Code-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c)](https://ionicframework.com/)
-[![GatsbyJS](https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)](https://www.gatsbyjs.org/)
-[![C](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c)](https://www.cprogramming.com/)
-[![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c)](https://isocpp.org/)
-[![PHP](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c)](https://laravel.com/)
-[![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)](https://devhints.io/bash)
-[![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c)](https://www.mongodb.com/)
-[![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c)](https://aws.amazon.com/dynamodb/)
-[![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)](https://www.docker.com/)
-[![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/)
-[![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&labelColor=17202A&color=1abc9c)](https://www.vim.org/)
-[![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)](https://atom.io/)
-[![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=for-the-badge&logo=phpstorm&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/phpstorm/)
-[![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
+|  |  |  |
+| --- | --- | --- |
+| [![Javascript](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![NodeJS](https://img.shields.io/badge/Framework-NodeJS-informational?style=for-the-badge&logo=nodedotjs&labelColor=17202A&color=1abc9c)](https://nodejs.org/en) | [![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)](https://www.docker.com/) |
+| [![Python](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)](https://www.python.org/) | [![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=for-the-badge&logo=fastapi&labelColor=17202A&color=1abc9c)](https://fastapi.tiangolo.com/) | [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/) |
+| [![Java](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=openjdk&labelColor=17202A&color=1abc9c)](https://www.java.com/en/) | [![SpringBoot](https://img.shields.io/badge/Framework-Spring-informational?style=for-the-badge&logo=spring&labelColor=17202A&color=1abc9c)](https://spring.io/projects/spring-boot) | [![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&labelColor=17202A&color=1abc9c)](https://www.vim.org/) |
+| [![C](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c)](https://www.cprogramming.com/) | [![ReactNative](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactnative.dev/) | [![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=Atom&labelColor=17202A&color=1abc9c)](https://atom.io/) |
+| [![C++](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c)](https://isocpp.org/) | [![Ionic](https://img.shields.io/badge/Framework-Ionic-informational?style=for-the-badge&logo=Ionic&labelColor=17202A&color=1abc9c)](https://ionicframework.com/) | [![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=for-the-badge&logo=phpstorm&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/phpstorm/) |
+| [![PHP](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c)](https://www.php.net/) | [![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c)](https://laravel.com/) | [![Git](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&labelColor=17202A&color=1abc9c)](https://git-scm.com/) |
+| [![SQLServer](https://img.shields.io/badge/DB-SQL_Server-informational?style=for-the-badge&logo=microsoftsqlserver&labelColor=17202A&color=1abc9c)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | [![GatsbyJS](https://img.shields.io/badge/Framework-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)](https://www.gatsbyjs.org/) | [![IntelliJIDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/idea/) |
+| [![PostGIS](https://img.shields.io/badge/DB-PostGIS-informational?style=for-the-badge&logo=postgresql&labelColor=17202A&color=1abc9c)](https://postgis.net/) | [![Leaflet](https://img.shields.io/badge/Framework-Leaflet-informational?style=for-the-badge&logo=leaflet&labelColor=17202A&color=1abc9c)](https://leafletjs.com/) | [![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)](https://devhints.io/bash) |
+| [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/) | [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/) | [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/) |
+
 
 ## :ghost: My Profiles
 
@@ -42,6 +33,7 @@
 [![LightOJ](https://img.shields.io/badge/online_judge-lightoj-3298DC?style=for-the-badge&logo=none)](https://lightoj.com/user/shahnawaz-pabon)
 [![HackerRank](https://img.shields.io/badge/online_judge-hackerrank-1BA94C?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/shahnawaz_pabon)
 [![StackOverflow](https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/6174271/shahnawaz-hossan)
+[![DevTo](https://img.shields.io/badge/profile-dev.to-1C1D26?style=for-the-badge&logo=dev.to)](https://dev.to/shahnawaz-pabon)
 [![LinkedIn](https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/backtoschool/)
 [![Blogger](https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger)](https://shahnawaz-pabon.blogspot.com/)
 [![ERPNext](https://img.shields.io/badge/profile-erpnext-7079F7?style=for-the-badge&logo=none)](https://discuss.erpnext.com/u/pabon_cse_12/summary)
