@@ -5,10 +5,11 @@
 
 ## :man_office_worker: About me
 
-- :snowman: During my university studies, I spent over 1500 hours working on various types of programming problems.
-- :snowman: Solved 1000+ problems in different online judges.
-- :snowman: Capable of working on multiple stacks simultaneously.
-- :snowman: Whenever I switched jobs, I was asked to work on technologies that I had never worked on before. Despite not having any experiences, I always took on those challenges successfully to take over my responsibilities.
+- :snowman: As a university student, I spent more than 3000 hours engaged in various programming projects and exercises, enhancing my proficiency in the field.
+- :snowman: Through my engagement with various online judges, I have successfully tackled over 1000 distinct problems, honing my problem-solving skills in the process.
+- :snowman: I possess the versatility to effectively work on multiple technology stacks concurrently.
+- :snowman: Have a facility for learning and applying new technologies with ease whenever the need arises.
+- :snowman: Throughout my career transitions, I have consistently been tasked with working on unfamiliar technologies. Despite my lack of prior experience, I have consistently risen to the challenge and excelled in assuming my new responsibilities.
   <br>
 
 ## :fork_and_knife: Skills
