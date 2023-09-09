@@ -24,20 +24,17 @@
 | [![PHP](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c)](https://www.php.net/) | [![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c)](https://laravel.com/) | [![Git](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&labelColor=17202A&color=1abc9c)](https://git-scm.com/) |
 | [![SQLServer](https://img.shields.io/badge/DB-SQL_Server-informational?style=for-the-badge&logo=microsoftsqlserver&labelColor=17202A&color=1abc9c)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | [![GatsbyJS](https://img.shields.io/badge/Framework-Gatsby-informational?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=17202A&color=1abc9c)](https://www.gatsbyjs.org/) | [![IntelliJIDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/idea/) |
 | [![PostGIS](https://img.shields.io/badge/DB-PostGIS-informational?style=for-the-badge&logo=postgresql&labelColor=17202A&color=1abc9c)](https://postgis.net/) | [![Leaflet](https://img.shields.io/badge/Framework-Leaflet-informational?style=for-the-badge&logo=leaflet&labelColor=17202A&color=1abc9c)](https://leafletjs.com/) | [![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&labelColor=17202A&color=1abc9c)](https://devhints.io/bash) |
-| [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/) | [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/) | [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/) |
-
+| [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/) | [![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c)](https://www.mongodb.com/) | [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/) |
+| [![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c)](https://aws.amazon.com/dynamodb/) |
 
 ## :ghost: My Profiles
 
-[![UVa](https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none)](https://uhunt.onlinejudge.org/id/370372)
-[![Codeforces](https://img.shields.io/badge/online_judge-codeforces-006FBF?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Back_To_School)
-[![LightOJ](https://img.shields.io/badge/online_judge-lightoj-3298DC?style=for-the-badge&logo=none)](https://lightoj.com/user/shahnawaz-pabon)
-[![HackerRank](https://img.shields.io/badge/online_judge-hackerrank-1BA94C?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/shahnawaz_pabon)
-[![StackOverflow](https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/6174271/shahnawaz-hossan)
-[![DevTo](https://img.shields.io/badge/profile-dev.to-1C1D26?style=for-the-badge&logo=dev.to)](https://dev.to/shahnawaz-pabon)
-[![LinkedIn](https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/backtoschool/)
-[![Blogger](https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger)](https://shahnawaz-pabon.blogspot.com/)
-[![ERPNext](https://img.shields.io/badge/profile-erpnext-7079F7?style=for-the-badge&logo=none)](https://discuss.erpnext.com/u/pabon_cse_12/summary)
+|  |  |  |
+| --- | --- | --- |
+| [![UVa](https://img.shields.io/badge/Online_Judge-UVa-F34B7D?style=for-the-badge&logo=none)](https://uhunt.onlinejudge.org/id/370372) | [![Codeforces](https://img.shields.io/badge/Online_Judge-Codeforces-006FBF?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Back_To_School) | [![LightOJ](https://img.shields.io/badge/Online_Judge-LightOJ-3298DC?style=for-the-badge&logo=none)](https://lightoj.com/user/shahnawaz-pabon) |
+| [![HackerRank](https://img.shields.io/badge/Online_Judge-HackerRank-1BA94C?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/shahnawaz_pabon) | [![StackOverflow](https://img.shields.io/badge/Profile-Stack_Overflow-F2740D?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/6174271/shahnawaz-hossan) | [![DevTo](https://img.shields.io/badge/Profile-Dev.to-1C1D26?style=for-the-badge&logo=dev.to)](https://dev.to/shahnawaz-pabon) |
+| [![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-0E76E8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/backtoschool/) | [![Blogger](https://img.shields.io/badge/Profile-Blogger-FC4F08?style=for-the-badge&logo=blogger)](https://shahnawaz-pabon.blogspot.com/) | [![ERPNext](https://img.shields.io/badge/Profile-ERPNext-7079F7?style=for-the-badge&logo=none)](https://discuss.erpnext.com/u/pabon_cse_12/summary) |
+| [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/shahnawaz-pabon) |
 
 ## :computer: OS
 
