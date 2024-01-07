@@ -1,4 +1,4 @@
-<div align="center"> <img src="./images/header-image.png"> </div>
+<div align="center"> <img src="./images/profile-header-image.png"> </div>
 <br>
 <br>
 <!-- <img align="right" width="400" height="250" alt="boy with computer" src="./images/coffee.png" /> -->
