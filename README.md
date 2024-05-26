@@ -28,7 +28,7 @@
 | [![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-informational?style=for-the-badge&logo=Amazon-DynamoDB&labelColor=17202A&color=1abc9c)](https://aws.amazon.com/dynamodb/) | [![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=17202A&color=1abc9c)](https://www.mongodb.com/) | [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/) |
 | [![Nginx](https://img.shields.io/badge/Server-NGINX-informational?style=for-the-badge&logo=nginx&labelColor=17202A&color=1abc9c)](https://www.nginx.com/) |
 
-## :ghost: My Profiles
+## :biking_man: My Profiles
 
 |  |  |  |
 | --- | --- | --- |
